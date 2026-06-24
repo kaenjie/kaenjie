@@ -21,19 +21,30 @@ I am an **Information Systems Undergraduate** focused on creating functional, in
 <table>
   <tr>
     <td bgcolor="#0d1117" width="160"><b>Frontend & Mobile</b></td>
-    <td bgcolor="#0d1117"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,flutter" alt="Frontend & Mobile" /></td>
+    <td bgcolor="#0d1117">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter" />
+    </td>
   </tr>
+
   <tr>
-    <td bgcolor="#0d1117"><b>Backend & DB</b></td>
-    <td bgcolor="#0d1117"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" alt="Backend" /></td>
+    <td bgcolor="#0d1117"><b>Backend & API</b></td>
+    <td bgcolor="#0d1117">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" />
+    </td>
   </tr>
+
   <tr>
-    <td bgcolor="#0d1117"><b>Cloud & Deploy</b></td>
-    <td bgcolor="#0d1117"><img src="https://skillicons.dev/icons?i=redis,supabase,vercel,railway" alt="Cloud & Tools" /></td>
+    <td bgcolor="#0d1117"><b>Database & Cache</b></td>
+    <td bgcolor="#0d1117">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis" />
+    </td>
   </tr>
+
   <tr>
-    <td bgcolor="#0d1117"><b>Design & Git</b></td>
-    <td bgcolor="#0d1117"><img src="https://skillicons.dev/icons?i=figma,git,postman" alt="Design & Workflow" /></td>
+    <td bgcolor="#0d1117"><b>Design & Tools</b></td>
+    <td bgcolor="#0d1117">
+      <img src="https://skillicons.dev/icons?i=figma,git,github,postman,vscode" />
+    </td>
   </tr>
 </table>
 
