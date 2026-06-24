@@ -1,12 +1,9 @@
-# 🪐 Hi, I'm Angel
-
-<p align="left">
-  <a href="https://linkedin.com/in/mutiangel"><img src="https://img.shields.io/badge/LinkedIn-111418?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
-  <a href="mailto:angelmuhaeni@gmail.com"><img src="https://img.shields.io/badge/Email-111418?style=flat-square&logo=microsoftoutlook&logoColor=0078D4" alt="Email"></a>
-  <a href="https://github.com/kaenjie">
-    <img src="https://komarev.com/ghpvc/?username=kaenjie&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
+<h1 align="left">
+  🪐 Hi, I'm Angel &nbsp;
+  <a href="https://linkedin.com/in/mutiangel"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white&v=clear" alt="LinkedIn" valign="middle"></a>
+  <a href="https://instagram.com/mutiangel"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=flat-square&logo=instagram&logoColor=white&v=clear" alt="Instagram" valign="middle"></a>
+  <a href="mailto:angelmuhaeni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=flat-square&logo=gmail&logoColor=white&v=clear" alt="Email" valign="middle"></a>
+</h1>
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=58a6ff&width=450&lines=Information+Systems+Undergraduate;Frontend+%26+Mobile+Developer;UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
