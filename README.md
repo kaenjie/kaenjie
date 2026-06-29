@@ -54,7 +54,7 @@ I am an **Information Systems Undergraduate** focused on creating functional, in
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kaenjie&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true" height="160" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaenjie&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" height="160" />
-</p> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaenjie&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" height="160" />
+</p>
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaenjie&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&hide_border=true&height=250" /> -->
