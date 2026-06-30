@@ -50,15 +50,15 @@ I am an **Information Systems Undergraduate** focused on creating functional, in
 
 ---
 
-### 📊 `GitHub Stats`
+### 📊 GitHub Stats
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kaenjie&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats-xi-self-89.vercel.app/api/top-langs/?username=kaenjie&layout=compact&theme=github_dark&hide_border=true"
     height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaenjie&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-xi-self-89.vercel.app/api?username=kaenjie&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
     height="160"
   />
 </p>
