@@ -1,8 +1,8 @@
 <h1 align="left">
   🪐 Hi, I'm Angel &nbsp;
-  <a href="https://linkedin.com/in/mutiangel"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white&v=clear" alt="LinkedIn" valign="middle"></a>
-  <a href="https://instagram.com/mutiangel"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=flat-square&logo=instagram&logoColor=white&v=clear" alt="Instagram" valign="middle"></a>
-  <a href="mailto:angelmuhaeni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=flat-square&logo=gmail&logoColor=white&v=clear" alt="Email" valign="middle"></a>
+  <a href="https://linkedin.com/in/mutiangel"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" valign="middle"></a>
+  <a href="https://instagram.com/mutiangel"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" valign="middle"></a>
+  <a href="mailto:angelmuhaeni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" valign="middle"></a>
 </h1>
 
 <p align="left">
@@ -11,38 +11,35 @@
 
 I am an **Information Systems Undergraduate** focused on creating functional, intuitive, and user-centered digital products. I bridge the gap between clean code and thoughtful design by specializing in **Frontend Web, Mobile Development, and UI/UX Design**.
 
-> 🧠 `Current Interest`
+> 🧠 **Current Interest**  
 > Currently deep-diving into **Backend Development & Systems Architecture** to build scalable and robust server-side logic.
 
 ---
 
-### 🛠️ `Tech Stack & Tools`
+### 🛠️ Tech Stack & Tools
 
 <table>
   <tr>
-    <td bgcolor="#0d1117" width="160"><b>Frontend & Mobile</b></td>
-    <td bgcolor="#0d1117">
+    <td width="160"><b>Frontend & Mobile</b></td>
+    <td>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,dart,flutter" />
     </td>
   </tr>
-
   <tr>
-    <td bgcolor="#0d1117"><b>Backend & API</b></td>
-    <td bgcolor="#0d1117">
+    <td><b>Backend & API</b></td>
+    <td>
       <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" />
     </td>
   </tr>
-
   <tr>
-    <td bgcolor="#0d1117"><b>Database & Cache</b></td>
-    <td bgcolor="#0d1117">
+    <td><b>Database & Cache</b></td>
+    <td>
       <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis" />
     </td>
   </tr>
-
   <tr>
-    <td bgcolor="#0d1117"><b>Design & Tools</b></td>
-    <td bgcolor="#0d1117">
+    <td><b>Design & Tools</b></td>
+    <td>
       <img src="https://skillicons.dev/icons?i=figma,git,github,postman,vscode" />
     </td>
   </tr>
@@ -53,12 +50,6 @@ I am an **Information Systems Undergraduate** focused on creating functional, in
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaenjie&layout=compact&theme=transparent&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kaenjie&show_icons=true&theme=transparent&hide_border=true"
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaenjie&layout=compact&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaenjie&show_icons=true&theme=transparent&hide_border=true" height="160" />
 </p>
